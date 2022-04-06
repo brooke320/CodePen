@@ -50,7 +50,7 @@
 }
 
 .main-section > .opitz > .opitz-text-wrapper {
-  width: 222px;
+  width: 280px;
   height: 45px;
   margin-top: 70px;
   margin-left: 50px;
@@ -59,12 +59,12 @@
   /* font-size: 1.2em; */
 }
 
-.main-section > .opitz > .opitz-text-wrapper > p {
-  font-size: 1.2em;
+.main-section > .opitz > .opitz-text-wrapper > h2 {
+  font-size: 1.3em;
   color: white;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .main-section > .opitz > .opitz-text-wrapper > .img-wrapper img {
-  height: 388px;
+  height: 412px;
 }
