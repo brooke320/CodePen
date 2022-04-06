@@ -12,6 +12,7 @@
 }
 
 .footer-links-wrapper > .foot-link > a {
+  display: flex;
   text-decoration: none;
   margin: 5px;
   color: white;
