@@ -1,0 +1,24 @@
+.footer {
+  display: flex;
+  height: 100px;
+  flex-direction: column;
+  background-color: #483d8b;
+}
+
+.footer > .footer-links-wrapper {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.footer-links-wrapper > .foot-link > a {
+  text-decoration: none;
+  margin: 5px;
+  color: white;
+  background-color: black;
+  padding: 22px 63px;
+  font-size: 1.4em;
+  border: 4px solid #8fbc8f;
+  border-radius: 2px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}

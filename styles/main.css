@@ -1,0 +1,70 @@
+.main-section {
+  display: flex;
+  background-color: #483d8b;
+  /* height: 500px; */
+}
+
+.main-section > .about-wrapper {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  padding: 25px;
+  height: 500px;
+  width: 575px;
+  background-color: #483d8b;
+}
+
+.main-section > .about-wrapper > p {
+  font-size: 2em;
+  color: #c0c0c0;
+}
+
+.main-section > .about-wrapper > .brooke {
+  display: flex;
+  /* justify-content: left; */
+}
+
+.main-section > .about-wrapper > .brooke > .left-heading a {
+  padding: 15px;
+  background-color: #8fbc8f;
+  color: black;
+  text-align: center;
+  border-radius: 2px;
+  font-size: 2em;
+  text-decoration: none;
+}
+
+.main-section > .about-wrapper > .brooke > .right-heading a {
+  margin-left: 10px;
+  padding: 15px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  border-radius: 2px;
+  font-size: 2em;
+  text-decoration: none;
+}
+
+.opitz {
+  display: flex;
+}
+
+.main-section > .opitz > .opitz-text-wrapper {
+  width: 222px;
+  height: 45px;
+  margin-top: 70px;
+  margin-left: 50px;
+  background-color: #483d8b;
+  /* flex-direction: column; */
+  /* font-size: 1.2em; */
+}
+
+.main-section > .opitz > .opitz-text-wrapper > p {
+  font-size: 1.2em;
+  color: white;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.main-section > .opitz > .opitz-text-wrapper > .img-wrapper img {
+  height: 388px;
+}
