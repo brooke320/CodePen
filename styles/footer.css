@@ -11,10 +11,14 @@
   margin-top: 20px;
 }
 
+.footer > .footer-links-wrapper > .foot-link {
+  flex-grow: 5;
+}
+
 .footer-links-wrapper > .foot-link > a {
   display: flex;
   text-decoration: none;
-  margin: 5px;
+  /* margin: 5px; */
   color: white;
   background-color: black;
   padding: 22px 60px;
